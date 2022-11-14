@@ -5,8 +5,7 @@
 
 - 👀 I’m interested in **Coding**
 
-- 💬 Ask me about **
-, cypress, redux, or any of the tools below 👇**
+- 💬 Ask me about **cypress, redux, or any of the tools below 👇**
 
 - 📫 How to reach me **Email me! It's nachoferrari2000@gmail.com**
 
