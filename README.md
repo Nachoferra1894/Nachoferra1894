@@ -7,9 +7,9 @@
 
 - 👀 I’m interested in **Coding**
 
-- 💬 Ask me about **react, cypress, redux, o**
+- 💬 Ask me about **react, cypress, redux, or any of the tools below 👇**
 
-- 📫 How to reach me **Email me! nachoferrari2000@gmail.com**
+- 📫 How to reach me **Email me! It's nachoferrari2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
